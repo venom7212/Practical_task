@@ -76,7 +76,7 @@
         margin-bottom: 51px;
         flex-wrap: wrap;
         row-gap: 23px;
-        column-gap: 28px;
+        column-gap: 26px;
         align-items: center;
         justify-content: center;
         box-sizing: border-box;
@@ -424,7 +424,7 @@
         margin-bottom: 51px;
         flex-wrap: wrap;
         row-gap: 23px;
-        column-gap: 28px;
+        column-gap: 26px;
         align-items: center;
         justify-content: center;
         flex-direction: column;
